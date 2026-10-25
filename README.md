@@ -2,11 +2,11 @@
 
 An AI agent skill for making illustrated stories whose graphics unfold as you scroll. Learn the form, write and critique the script, plan its visual beats, then build and check it in a browser.
 
-[![A clinic with five stations: the doctor can treat only twenty people a day](media/stations.png)](https://reasoncommons.com/explainers/01-bottleneck/index.html)
+[![A clinic with five stations: the doctor can treat only twenty people a day](media/preview.gif)](https://reasoncommons.com/explainers/01-bottleneck/index.html)
 
 [Watch the 44-second scrolling demo](media/demo.mp4) · [Read the live story](https://reasoncommons.com/explainers/01-bottleneck/index.html)
 
-A silent recording of the live page, from its opening clinic story to the bottleneck reveal. [Capture source and instructions](media/README.md).
+The embedded preview is a 10-second GIF (663 KB). The full video is a silent recording of the live page, from its opening clinic story to the bottleneck reveal. [Capture source and instructions](media/README.md).
 
 ## Install
 
