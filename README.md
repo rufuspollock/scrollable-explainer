@@ -2,6 +2,12 @@
 
 An AI agent skill for making illustrated stories whose graphics unfold as you scroll. Learn the form, write and critique the script, plan its visual beats, then build and check it in a browser.
 
+[![A clinic with five stations: the doctor can treat only twenty people a day](media/stations.png)](https://reasoncommons.com/explainers/01-bottleneck/index.html)
+
+[Watch the 44-second scrolling demo](media/demo.mp4) · [Read the live story](https://reasoncommons.com/explainers/01-bottleneck/index.html)
+
+A silent recording of the live page, from its opening clinic story to the bottleneck reveal. [Capture source and instructions](media/README.md).
+
 ## Install
 
 ```sh
@@ -17,7 +23,7 @@ Read [the skill](SKILL.md) directly, or explore [the background research](resear
 These scrolling explainers were developed using the skill:
 
 - [The Wrong Queue](https://reasoncommons.com/explainers/01-bottleneck/index.html) — the bottleneck story that started the trilogy.
-- [Thinking Made Visible](https://reasoncommons.com/explainers/02-thinking-made-visible/index.html) — how a drawing makes reasoning inspectable.
+- [The Arrows Nobody Checks](https://reasoncommons.com/explainers/02-thinking-made-visible/index.html) — how a drawing makes reasoning inspectable.
 - [Five Shapes](https://reasoncommons.com/explainers/03-five-shapes/index.html) — five questions that guide a change.
 - [The Forum Doesn't Remember, and Doesn't Cumulate](https://reasoncommons.com/explainers/second-renaissance/index.html) — a scrolling application to a real community's reasoning.
 
