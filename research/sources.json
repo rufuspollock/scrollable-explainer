@@ -1,0 +1,246 @@
+{
+  "source_repository": "https://github.com/reasoncommons/reasoncommons",
+  "source_commit": "1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b",
+  "files": [
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/01-script.md",
+      "sha256": "fcd2c30dafe80046b63388357b57152d7af051445dcb66c0cdaebaad7f199708",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/01-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/02-critique.md",
+      "sha256": "1ee42b78f7a2e5cd22b7350c903ad38b5d957528489dd3ad7ab24b38b0af9fc6",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/02-critique.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/03-script-v2.md",
+      "sha256": "73306367c76b0e0736d48eea3c6021bba8b05d4d9e9050247686106e86489c67",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/03-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/04-critique-independent.md",
+      "sha256": "329bcecc8849375b14e496b2a68ee823d723c7cfe01611e29f03fa185ee1e7e0",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/04-critique-independent.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/05-script-v3.md",
+      "sha256": "1e706881d48fffd81a6a3ce98ee455a2585d9ca37845a4896965bbcd0996cc4f",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/05-script-v3.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/article.md",
+      "sha256": "fd70a0e6924fd6003d2424711df7f7aa6b3083c6b2adfb69df45b7bfb267f518",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/article.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/beats.md",
+      "sha256": "655de59a25d2edf99826fd305bcfc42653446a17e57752e7d0cc2133207f3484",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/beats.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/draft-v1-prose.md",
+      "sha256": "499ef534b2f3820169cfa89b8cc79da647f718ca0688905820bf41d6ace5fa07",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/draft-v1-prose.md"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/preview-cold-open.png",
+      "sha256": "f441becd18394e1fde9ef7d2892796428b70027a2f0546f4419a225b5c5f9df9",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/preview-cold-open.png"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/preview-stations.png",
+      "sha256": "98ebf064e981fc579e0a7884841c743f841ba35a176f0dc5367c51857a2515a4",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/preview-stations.png"
+    },
+    {
+      "path": "docs/marketing/explainers/01-bottleneck/shotlist-v1.md",
+      "sha256": "5a42a99485eac8c74b496ef87ddf4de46f68122b042949e9ad71a77dd019f010",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/01-bottleneck/shotlist-v1.md"
+    },
+    {
+      "path": "docs/marketing/explainers/02-thinking-made-visible/01-script.md",
+      "sha256": "1c1464a81f77ce9240545cf60f904e3484745806ccc534cc1b2f1154fa848b02",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/02-thinking-made-visible/01-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/02-thinking-made-visible/02-critique-independent.md",
+      "sha256": "739c5366225118b1f6279d22f6595429597dd6bfcad18ddd1b9b52bc4f76d6e4",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/02-thinking-made-visible/02-critique-independent.md"
+    },
+    {
+      "path": "docs/marketing/explainers/02-thinking-made-visible/03-script-v2.md",
+      "sha256": "213e6be644079c7f89456504a835c5b8bcbb67ac59312a3eda190cfd578714c2",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/02-thinking-made-visible/03-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/02-thinking-made-visible/article.md",
+      "sha256": "6f386c8b9edd4575f3ab0d16d5c4bf44b74eaece539afbc70419f21d711ae81d",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/02-thinking-made-visible/article.md"
+    },
+    {
+      "path": "docs/marketing/explainers/03-five-shapes/01-script.md",
+      "sha256": "3ff0b5ef9275624147c68ae8718a8340f2e32e7e68f4d21d82b6749cd5f356de",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/03-five-shapes/01-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/03-five-shapes/02-critique-independent.md",
+      "sha256": "509f696381b8f2a84ceff71ac0d3406af02164e30c31869a742ddf134423113a",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/03-five-shapes/02-critique-independent.md"
+    },
+    {
+      "path": "docs/marketing/explainers/03-five-shapes/03-script-v2.md",
+      "sha256": "d24f3c0e5a73cd8fea03dac35c443891f72af3794c8591d8ce339e9468c13b49",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/03-five-shapes/03-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/03-five-shapes/article.md",
+      "sha256": "b20e83694b6a1a7171a4f6a8a988459ffb21ddc23587a99bd305d467110950ae",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/03-five-shapes/article.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/01-script.md",
+      "sha256": "34359b9068be76ad2009b0ff8f919cbcde66e585d6373cb966db3219e7100567",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/01-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/02-critique.md",
+      "sha256": "4968970873873d1d9fff31bdfab30c94c5cefcc8bcf7da465c3e424e70c477f0",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/02-critique.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/03-script-v2.md",
+      "sha256": "e08203bba499ef63eed23ba88412131dea7f5758eb567a37327509fe2a8f6266",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/03-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/04-visual-script.md",
+      "sha256": "fb5b5033032e0e772f57b6e7883b615c4548e98b03744ed7ce0c7e2a74c7fb9c",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/04-visual-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/05-script.md",
+      "sha256": "6eb4d3d7b764a29a6604a375ef36472519de9f1d5c5c1409fc6b1e6a4699a475",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/05-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/06-critique.md",
+      "sha256": "8af697865cc4bd9c0197905cc9e06f03057c4fce97b66410b62526e02020073a",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/06-critique.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/07-script-v2.md",
+      "sha256": "914c1f23e1a3e5f5002093ae1838d79ece02efc08465da209e389b5ebcffc668",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/07-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/08-visual-script.md",
+      "sha256": "6a17f339af40dafd04a59b9f96f214eb23c5b81d7b42e61fe67e06eb5b91fd6d",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/08-visual-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/09-ux-fix-plan.md",
+      "sha256": "0799bca6dfa75283ebe23522afa7a0562f1636d46612e43230b5c99eecf27d02",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/09-ux-fix-plan.md"
+    },
+    {
+      "path": "docs/marketing/explainers/second-renaissance/README.md",
+      "sha256": "e64caf1a3767991d64f945684b154ab24bc4d6e58632b197bec5f7acb1337220",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/second-renaissance/README.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/01-evaluation.md",
+      "sha256": "91a12cdf4aef6f6749968762144808898a46fdad4c1d8099946e6161a9311ded",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/01-evaluation.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/02-arc.md",
+      "sha256": "4da877c0535e5523fa7fe0a64b39d31c99df40282d84cc89b039e12252136d8b",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/02-arc.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/03-arc-critique.md",
+      "sha256": "a833119c674c1821a3404d0e8257ef80f3421225a8e9417c6c03f2742c3ec36f",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/03-arc-critique.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/04-arc-v2.md",
+      "sha256": "ac6b376f20e5eaeb4cecd84e704c1bc71e4c88b8f9ea2cebebd9292fed19f529",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/04-arc-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/05-skill-margin-script.md",
+      "sha256": "d5e6b24c86b634242a8fc3e83ddb023b146cc1bc0ed30a8b6710d7285a51c4fd",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/05-skill-margin-script.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/06-skill-margin-pacing-critique.md",
+      "sha256": "f7d80862e19078e1102b5d99dd298bcbe8b0b068758484d1b1531e203927dbf2",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/06-skill-margin-pacing-critique.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/07-skill-margin-scroll-map.md",
+      "sha256": "ce39643250dc31ef49d48fad57f8b7da2dfc6a41c0da88986cec9cc3d223c0ae",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/07-skill-margin-scroll-map.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/08-review-ledger.md",
+      "sha256": "dd3c4448ae9ae7afba60fc297758dc97f355ba005785485d41f8b84d277b7fe3",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/08-review-ledger.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/09-in-practice-script-v2.md",
+      "sha256": "1bea8a4a2c891b499c66a1d7d2b0f42c05481263fe8ffb3a51f496d84687bc02",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/09-in-practice-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/10-in-practice-critique-v2.md",
+      "sha256": "de49bf5f8e5d87827e815e20df653ca6b932a99c957fe447d8a028f3ccee1b28",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/10-in-practice-critique-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/11-in-practice-visual-script-v2.md",
+      "sha256": "25b9f1b755ef83eac6cdeb7b0b35a4b92188cdfa39429430f5d163cc026ee620",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/11-in-practice-visual-script-v2.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/12-in-practice-validation.md",
+      "sha256": "d8adde0eb46bdfb56c9033c3bb7980d6ad676f9878a43aea00ab9313037b5a39",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/12-in-practice-validation.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/13-skill-session-record.md",
+      "sha256": "26a1588d1fb35f7e2cd26895be4e5c83fb79969c2f147704069edd78b0da0972",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/13-skill-session-record.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/costar-teardown.md",
+      "sha256": "dbc1d5f004c4e7afdae00866027580e2503ff7eb186bdd749dba75dc0734bd0c",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/costar-teardown.md"
+    },
+    {
+      "path": "docs/marketing/explainers/series/voice-guide.md",
+      "sha256": "56adfe35016c89b27638891b60616c902f2b795f2e4541a5c22014214eeb4957",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/series/voice-guide.md"
+    },
+    {
+      "path": "docs/marketing/explainers/wrong_queue.md",
+      "sha256": "bcf48429fd799e687f5269d4f9fc30152e2216bb110c2e39e059042491b63bb3",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/explainers/wrong_queue.md"
+    },
+    {
+      "path": "docs/marketing/plans/2026-09-18-explainers-v2.md",
+      "sha256": "b6266bc8f496fdab69faf179afed040b8b9e7cdd5c3b002e2d5aad5262efb359",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/plans/2026-09-18-explainers-v2.md"
+    },
+    {
+      "path": "docs/marketing/plans/2026-08-14-ltp-explainer-trilogy.md",
+      "sha256": "5c931ae970d93b5b5b9322d86b7b8f101023681b1b7f148b909131978efe81bd",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/plans/2026-08-14-ltp-explainer-trilogy.md"
+    },
+    {
+      "path": "docs/marketing/plans/2026-08-16-second-renaissance-narrative.md",
+      "sha256": "80bdfc19c05cfef47ef6822dbd37d6a5a1c074b1dece9d8493806bbbba1b3411",
+      "source": "https://github.com/reasoncommons/reasoncommons/blob/1a6ec7f5a6b19f3606555aba7d0fd8a7ac37457b/docs/marketing/plans/2026-08-16-second-renaissance-narrative.md"
+    }
+  ]
+}
